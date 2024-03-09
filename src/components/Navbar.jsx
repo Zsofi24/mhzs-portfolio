@@ -27,7 +27,7 @@ const Navbar = () => {
           <p c></p>
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
             Málik-Hári Zsófia &nbsp;
-            <span className="sm:block hidden">| JS Mastery</span>
+            {/* <span className="sm:block hidden">| JS Mastery</span> */}
           </p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10">
